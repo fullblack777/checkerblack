@@ -1,0 +1,33 @@
+# Banco de dados
+database/savechecker.db
+database/*.db
+
+# Arquivos temporários
+*.tmp
+*.txt
+savefullblack.txt
+
+# Logs
+*.log
+
+# Cache
+cache/
+temp/
+
+# Configurações locais
+config.local.php
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+
